@@ -32,4 +32,4 @@ function onTabClick(item) {
 
 
 
-document.querySelector('.tabs__nav-btn:nth-child(3)').click();
+document.querySelector('.tabs__nav-btn:nth-child(2)').click();
